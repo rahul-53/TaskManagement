@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="style_first">#FB9F33</style>
+    <style name="text_size_20sp">20sp</style>
+    <style name="text_color1">#FFF</style>
+    <style name="layout_width">wrap_content</style>
+    <style name="layout_height">wrap_height</style>
+</resources>

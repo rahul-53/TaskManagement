@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="gradle_webinar">Webinar on Gradle API</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="name_text">Hey Sofia,</string>
+    <string name="welcome_text">Welcome back</string>
+    <string name="meeting_text">Meeting with Omar</string>
+    <string name="webinar_text">Webinar on Gradle API</string>
+    <string name="today_text">Today</string>
+    <string name="time_8am">08:00 AM</string>
+    <string name="time_1pm">01:00PM</string>
+    <string name="tomorrow_text">Tomorrow</string>
+    <string name="front_end">Front End Development</string>
+    <string name="back_end">Back End Development</string>
+    <string name="may_text">14th May</string>
+    <string name="plus_sign">+</string>
+</resources>
